@@ -1,7 +1,8 @@
 # Informativeness of Estimation Moments
 
 This is the replication package for the paper "The Informativeness of Estimation Moments"
-by Bo E. Honoré, Thomas H. Jørgensen and Àureo de Paula to appear in Journal of Applied Econometrics.
+by Bo E. Honoré, Thomas H. Jørgensen and Àureo de Paula to appear in *Journal of Applied Econometrics*.
+
 Working paper version can be found here: https://www.cemmap.ac.uk/publication/id/14668
 
 The replication package has three main folders: STATA, Matlab and Python.
