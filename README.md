@@ -11,7 +11,7 @@ STATA:
 ------
 The STATA-folder contains all the .do-files used to construct the empirical measures from the BHSP. All BHPS data can be downloaded free of charge at https://www.iser.essex.ac.uk/bhps/acquiring-the-data
 
-Running the <tt>`main.do</tt> file produces all output required. In that file the path to the raw BHPS data should be specified along with the path of the replication package.
+Running the <tt>main.do</tt> file produces all output required. In that file the path to the raw BHPS data should be specified along with the path of the replication package.
 
 Matlab:
 ------
