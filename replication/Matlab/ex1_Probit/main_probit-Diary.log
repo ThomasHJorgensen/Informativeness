@@ -1,0 +1,144 @@
+Optimal\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M1}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $    4.261 $ & $    1.475 $ & $    1.469 $ & $    0.192 $ & $    0.378 $ & $    0.184 $ \\ 
+ $\beta_1$& $    1.190 $ & $    6.570 $ & $   -1.286 $ & $    0.223 $ & $    0.141 $ & $   -0.069 $ \\ 
+ $\beta_1$& $    1.193 $ & $   -1.286 $ & $    6.567 $ & $   -0.073 $ & $    0.152 $ & $    0.214 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M2e}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $    1.104 $ & $    0.088 $ & $    0.087 $ & $    0.003 $ & $    0.004 $ & $    0.003 $ \\ 
+ $\beta_1$& $    0.060 $ & $    1.207 $ & $    0.046 $ & $    0.003 $ & $    0.000 $ & $    0.000 $ \\ 
+ $\beta_1$& $    0.060 $ & $    0.046 $ & $    1.205 $ & $    0.000 $ & $    0.000 $ & $    0.003 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M3e}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $    1.104 $ & $    0.088 $ & $    0.087 $ & $    0.003 $ & $    0.004 $ & $    0.003 $ \\ 
+ $\beta_1$& $    0.060 $ & $    1.207 $ & $    0.046 $ & $    0.003 $ & $    0.000 $ & $    0.000 $ \\ 
+ $\beta_1$& $    0.060 $ & $    0.046 $ & $    1.205 $ & $    0.000 $ & $    0.000 $ & $    0.003 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M4e}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $    1.206 $ & $    0.292 $ & $    0.291 $ & $    0.005 $ & $    0.003 $ & $    0.005 $ \\ 
+ $\beta_1$& $    0.065 $ & $    4.014 $ & $    0.155 $ & $    0.004 $ & $    0.006 $ & $    0.000 $ \\ 
+ $\beta_1$& $    0.065 $ & $    0.153 $ & $    4.034 $ & $    0.000 $ & $    0.006 $ & $    0.004 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M5e}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $    1.203 $ & $    0.292 $ & $    0.291 $ & $    0.001 $ & $    0.003 $ & $    0.001 $ \\ 
+ $\beta_1$& $    0.065 $ & $    4.014 $ & $    0.155 $ & $    0.001 $ & $    0.000 $ & $    0.000 $ \\ 
+ $\beta_1$& $    0.065 $ & $    0.153 $ & $    4.034 $ & $    0.000 $ & $    0.000 $ & $    0.001 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M6e}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $    0.000 $ & $    0.000 $ & $    0.000 $ & $    0.000 $ & $    0.000 $ & $    0.000 $ \\ 
+ $\beta_1$& $   -0.000 $ & $   -0.000 $ & $    0.000 $ & $   -0.000 $ & $   -0.000 $ & $    0.000 $ \\ 
+ $\beta_1$& $   -0.000 $ & $   -0.000 $ & $    0.000 $ & $    0.000 $ & $   -0.000 $ & $    0.000 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
+Non-Optimal\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M1}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $    3.374 $ & $    1.633 $ & $    1.630 $ & $    1.036 $ & $   -0.681 $ & $    1.035 $ \\ 
+ $\beta_1$& $    1.354 $ & $    5.656 $ & $   -1.185 $ & $   -0.853 $ & $   -1.360 $ & $    0.882 $ \\ 
+ $\beta_1$& $    1.351 $ & $   -1.185 $ & $    5.658 $ & $    0.881 $ & $   -1.360 $ & $   -0.851 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M2e}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $    1.104 $ & $    0.088 $ & $    0.087 $ & $    0.003 $ & $    0.004 $ & $    0.003 $ \\ 
+ $\beta_1$& $    0.060 $ & $    1.207 $ & $    0.046 $ & $    0.003 $ & $    0.000 $ & $    0.000 $ \\ 
+ $\beta_1$& $    0.060 $ & $    0.046 $ & $    1.205 $ & $    0.000 $ & $    0.000 $ & $    0.003 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M3e}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $    0.651 $ & $    0.101 $ & $    0.101 $ & $    0.080 $ & $    0.013 $ & $    0.080 $ \\ 
+ $\beta_1$& $    0.071 $ & $    0.817 $ & $    0.036 $ & $    0.037 $ & $    0.034 $ & $    0.039 $ \\ 
+ $\beta_1$& $    0.070 $ & $    0.036 $ & $    0.817 $ & $    0.039 $ & $    0.034 $ & $    0.037 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M4e}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $    1.076 $ & $    0.341 $ & $    0.340 $ & $   -0.010 $ & $   -0.011 $ & $   -0.011 $ \\ 
+ $\beta_1$& $    0.042 $ & $    3.783 $ & $    0.116 $ & $   -0.038 $ & $   -0.031 $ & $   -0.028 $ \\ 
+ $\beta_1$& $    0.042 $ & $    0.114 $ & $    3.802 $ & $   -0.028 $ & $   -0.032 $ & $   -0.038 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M5e}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $    1.203 $ & $    0.292 $ & $    0.291 $ & $    0.001 $ & $    0.003 $ & $    0.001 $ \\ 
+ $\beta_1$& $    0.065 $ & $    4.014 $ & $    0.155 $ & $    0.001 $ & $    0.000 $ & $    0.000 $ \\ 
+ $\beta_1$& $    0.065 $ & $    0.153 $ & $    4.034 $ & $    0.000 $ & $    0.000 $ & $    0.001 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
+\begin{center}
+\begin{tabular}{lrrrrrr}
+\multicolumn{7}{c}{\textbf{ Method of Moments Estimation of Probit Model. M6e}} \\ 
+& $E\left[ e \right] $   & $E\left[ e x_{1}\right] $   & $E\left[ e x_{2}\right] $    & $E\left[ e x_{1}^{2} \right] $   & $E\left[ e x_{1}x_{2}\right] $   & $E\left[ e x_{2}^{2}\right] $   \\ 
+ $\beta_0$& $   -0.101 $ & $    0.002 $ & $    0.002 $ & $    0.040 $ & $    0.017 $ & $    0.041 $ \\ 
+ $\beta_1$& $    0.011 $ & $   -0.142 $ & $    0.002 $ & $    0.044 $ & $    0.048 $ & $    0.037 $ \\ 
+ $\beta_1$& $    0.011 $ & $    0.002 $ & $   -0.142 $ & $    0.037 $ & $    0.048 $ & $    0.044 $ \\ 
+ \end{tabular}
+\end{center}
+
+
+
